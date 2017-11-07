@@ -1,0 +1,41 @@
+[
+   {
+	"id": "pressure_cooker",
+	"type": "GENERIC",
+	"category": "tools",
+	"name": "pressure cooker",
+	"description": "an advanced sealed pot used to preserve most types of food",
+	"weight": 20000,
+	"volume": ,
+	"price": 4500,
+	"to_hit": 1,
+	"bashing": 6,
+	"material": "steel",
+	"symbol": ")",
+	"color": "light_gray",
+	"container_data": {
+	"contains": 8,
+	"watertight": true
+	},
+	"qualities": [ [ "COOK", 3 ], [ "BOIL", 2 ], [ "CONTAIN", 1 ], [ "CHEM", 2 ] ],
+	"use_action": "HEAT_FOOD"
+	},
+   {
+    "id": "mason_jar",
+    "type": "CONTAINER",
+    "name": "mason jar",
+    "name_plural": "mason jars",
+    "description": "A 1 cup sealed jar with lid",
+    "weight": 375,
+    "volume": 1,
+    "price": 50,
+    "price_postapoc": 0,
+    "bashing": 1,
+    "material": "glass",
+    "symbol": ",",
+    "color": "cyan",
+    "contains": 2,
+    "watertight": true,
+    "qualities": [ [ "CONTAIN", 1 ] ]
+   }
+]	

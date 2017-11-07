@@ -1,0 +1,10 @@
+    {
+        "type": "MOD_INFO",
+        "mod-type": "SUPPLEMENTAL",
+        "ident": "Pressure_Cookers",
+        "name": "Pressure Cookers",
+        "author": "Leon",
+        "description": "mod to add Pressure Cookers and masons jars to game. recipes will take some time.",
+        "category": "rebalance",
+        "path": ""
+    }
